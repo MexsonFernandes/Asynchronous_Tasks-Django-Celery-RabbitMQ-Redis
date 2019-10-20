@@ -6,7 +6,7 @@ Django Celery Redis Rabbit SQLite project skeleton
 
 App | Version
 --- | ---
-Python | 3.6
+Python | 3.7
 Django | 2.1
 Celery | 4.1.0
 Redis | 2.1
@@ -61,7 +61,7 @@ Rabbit | 3.7.8
 ## Copy git repository
 
     git clone https://github.com/
-    cd 
+    cd
 
 ## Email settings
     # add the following info in src/dcs/settings.py
@@ -78,7 +78,7 @@ Rabbit | 3.7.8
 
     # option 2: run 3 instances of web over load balancer
     docker-compose up --scale web=3
-    
+
     # option 3: run in background with -d
     docker-compose up -d --scale web=3
 
@@ -96,13 +96,13 @@ See docker's logs
     virtualenv env
     source env/bin/activate
     pip install -r requirements.txt
-    
+
     # Move to 'src' folder
     cd src
-    
+
     # Run worker
     celery worker -A dcs.celeryconf -Q default -n default@%h
-    
+
     # Start application on another console
     python manage.py runserver
 
