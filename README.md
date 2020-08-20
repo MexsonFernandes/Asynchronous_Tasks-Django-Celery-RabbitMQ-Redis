@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/MexsonFernandes/Asynchronous_Tasks-Django-Celery-RabbitMQ-Redis.svg)](http://hits.dwyl.com/MexsonFernandes/Asynchronous_Tasks-Django-Celery-RabbitMQ-Redis)
+
 # Django Celery Redis Rabbit SQLite Docker container
 
 Django Celery Redis Rabbit SQLite project skeleton
