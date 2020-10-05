@@ -1,10 +1,10 @@
-[![HitCount](http://hits.dwyl.com/MexsonFernandes/Asynchronous_Tasks-Django-Celery-RabbitMQ-Redis.svg)](http://hits.dwyl.com/MexsonFernandes/Asynchronous_Tasks-Django-Celery-RabbitMQ-Redis)
-
 # Django Celery Redis Rabbit SQLite Docker container
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMexsonFernandes%2FAsynchronous_Tasks-Django-Celery-RabbitMQ-Redis&count_bg=%2383DF3D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 Django Celery Redis Rabbit SQLite project skeleton
 
 <a href='https://ko-fi.com/Y8Y31LBT4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ## Versions
 
 App | Version
