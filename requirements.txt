@@ -1,7 +1,7 @@
 amqp==2.2.2
 billiard==3.5.0.3
 celery==4.1.0
-Django==2.2.18
+Django==2.2.27
 django-celery-results==1.0.1
 kombu==4.1.0
 psycopg2-binary==2.7.4
